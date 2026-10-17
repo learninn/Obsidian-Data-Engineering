@@ -18,76 +18,6 @@
               "icon": "lucide-git-fork",
               "title": "Граф"
             }
-          },
-          {
-            "id": "01de87dfaabe7da9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grain.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Grain"
-            }
-          },
-          {
-            "id": "86317607d60625f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DWH.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DWH"
-            }
-          },
-          {
-            "id": "efa51163e63b8a26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kimball.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kimball"
-            }
-          },
-          {
-            "id": "6d0f7b3eff48fdff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inmon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Inmon"
-            }
-          },
-          {
-            "id": "da210d1a9ec50d21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SCD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SCD"
-            }
           }
         ]
       }
@@ -185,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SCD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -227,6 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "SCD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -255,16 +187,31 @@
   },
   "active": "c71bf2082b442f8e",
   "lastOpenFiles": [
-    "SCD.md",
-    "EDW.md",
+    "4NF.md",
+    "4NF.png",
+    "4NF 1.png.md",
+    "4NF 1.png",
+    "BCNF.png",
+    "BCNF.md",
+    "3NF.png",
+    "3NF.md",
+    "Normal Form (NF).md",
+    "2NF.md",
+    "1NF.md",
+    "2NF.png",
+    "1NF 1.png",
+    "1NF.png",
+    "Grain.md",
     "DWH.md",
+    "Реляционные БД.md",
+    "SCD.md",
+    "ACID.md",
+    "EDW.md",
     "Inmon.md",
     "Conformed dimensions.md",
     "Kimball.md",
-    "Grain.md",
     "Data Bus.md",
     "Data Mesh.md",
-    "Normal Form (NF).md",
     "Inferred member.md",
     "Mini-dimension.md",
     "Degenerate.md",
@@ -272,9 +219,6 @@
     "Unknown member.md",
     "Factless fact.md",
     "Dimensional modeling.md",
-    "index.html",
-    "Facts.md",
-    "Dimensions.md",
-    "Data Lake.md"
+    "index.html"
   ]
 }
