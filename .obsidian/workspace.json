@@ -20,21 +20,20 @@
             }
           },
           {
-            "id": "edbae3efd0cf555b",
+            "id": "f1d3f5b1eef9a236",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACID/Atomicity.md",
+                "file": "Модель данных.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atomicity"
+              "title": "Модель данных"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +91,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACID/Atomicity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ACID/Atomicity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -175,7 +171,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ACID/Atomicity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,51 +199,51 @@
       "publish:Публикация изменений": false
     }
   },
-  "active": "edbae3efd0cf555b",
+  "active": "c71bf2082b442f8e",
   "lastOpenFiles": [
-    "ACID/ACID.md",
+    "Модель данных.md",
+    "База данных.md",
+    "Резидентная БД.md",
+    "SQL/SQL.md",
+    "Иерархическая модель данных.md",
+    "Реляционная БД.md",
+    "SQL/Оператор (statement).md",
+    "Аналитическое хранилище.md",
+    "ORM.md",
+    "Схема данных.md",
+    "SQL/TCL.md",
+    "WAL.md",
+    "SQL",
+    "SQL/DDL.md",
+    "SQL/DML.md",
     "ACID/Atomicity.md",
-    "ACID/Isolation.md",
-    "ACID/Consistency.md",
-    "Kimball/Unknown member.md",
-    "Kimball/Role-playing.md",
-    "Kimball/Mini-dimension.md",
-    "Kimball/Kimball.md",
-    "Kimball/Inferred member.md",
-    "Kimball/Facts.md",
-    "Kimball/Factless fact.md",
-    "Kimball/Dimensions.md",
-    "Kimball/Dimensional modeling.md",
-    "Kimball/Degenerate.md",
     "Kimball/Conformed dimensions.md",
-    "Kimball/Bus Matrix.md",
+    "ACID/Isolation.md",
+    "Normal Form (NF)/Normal Form (NF).md",
+    "Normal Form (NF)/BCNF.md",
+    "Normal Form (NF)/6NF.md",
+    "Normal Form (NF)/5NF.md",
+    "Normal Form (NF)/2NF.md",
+    "Normal Form (NF)/3NF.md",
+    "Normal Form (NF)/4NF.md",
+    "Normal Form (NF)/3NF.png",
+    "Normal Form (NF)/2NF.png",
+    "Normal Form (NF)/1NF.png",
+    "Normal Form (NF)/1NF.md",
+    "Kimball/Degenerate.md",
     "SCD",
-    "OLTP.md",
-    "Data Bus.md",
     "PostgreSQL",
     "Inmon",
     "Normal Form (NF)/4NF.png",
     "Normal Form (NF)/5NF.png",
     "Normal Form (NF)/BCNF.png",
-    "Normal Form (NF)/BCNF.md",
-    "Normal Form (NF)/Normal Form (NF).md",
     "Kimball",
-    "Normal Form (NF)/6NF.md",
-    "Normal Form (NF)/5NF.md",
-    "Normal Form (NF)/4NF.md",
-    "Normal Form (NF)/3NF.md",
-    "Normal Form (NF)/2NF.md",
-    "Normal Form (NF)/1NF.png",
-    "Normal Form (NF)/1NF.md",
     "ACID",
     "Normal Form (NF)",
     "Без названия.base",
     "Без названия 2.base",
     "Без названия 1.base",
-    "Normal Form (NF)/3NF.png",
     "4NF 1.png",
-    "Normal Form (NF)/2NF.png",
-    "1NF 1.png",
-    "index.html"
+    "1NF 1.png"
   ]
 }
