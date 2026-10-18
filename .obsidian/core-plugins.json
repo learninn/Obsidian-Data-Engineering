@@ -10,7 +10,7 @@
   "footnotes": false,
   "properties": true,
   "page-preview": true,
-  "daily-notes": true,
+  "daily-notes": false,
   "templates": true,
   "note-composer": true,
   "command-palette": true,
@@ -25,8 +25,8 @@
   "audio-recorder": false,
   "workspaces": false,
   "file-recovery": true,
-  "publish": false,
+  "publish": true,
   "sync": true,
-  "bases": true,
-  "webviewer": false
+  "bases": false,
+  "webviewer": true
 }
