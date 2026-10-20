@@ -1,0 +1,8 @@
+views:
+  - type: table
+    name: представление
+    order:
+      - file.name
+      - file.tags
+  - type: table
+    name: представление 2

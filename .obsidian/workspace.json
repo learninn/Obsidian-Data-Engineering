@@ -18,8 +18,51 @@
               "icon": "lucide-git-fork",
               "title": "Граф"
             }
+          },
+          {
+            "id": "b1b0dfffdf2a2b66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Реляционная БД.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Реляционная БД"
+            }
+          },
+          {
+            "id": "b79faa89e9ce8223",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workload type.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Workload type"
+            }
+          },
+          {
+            "id": "cbe01a08735f46c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physical Storage Layout.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Physical Storage Layout"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -179,22 +222,32 @@
       "canvas:Создать новый холст": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "publish:Публикация изменений": false
+      "publish:Публикация изменений": false,
+      "bases:Создать новую базу": false
     }
   },
-  "active": "c71bf2082b442f8e",
+  "active": "cbe01a08735f46c7",
   "lastOpenFiles": [
-    "Транзакция/Транзакция.md",
     "База данных.md",
-    "HTAP.md",
+    "Physical Storage Layout.md",
+    "Workload type.md",
     "Реляционная БД.md",
+    "Модель данных/Модель данных.md",
+    "Модель данных/Реляционная модель данных.md",
+    "Модель данных/Иерархическая модель данных.md",
+    "Список СУБД.base",
+    "Без названия.md",
+    "MVCC.md",
+    "SSI.md",
+    "PostgreSQL/PostgreSQL.md",
+    "SQL/TCL.md",
+    "Транзакция/Транзакция.md",
+    "Транзакция/ACID/ACID.md",
+    "HTAP.md",
     "Первичный ключ.md",
     "Транзакция/BASE.md",
     "Транзакция",
     "SQL/SQL.md",
-    "Транзакция/ACID/ACID.md",
-    "Модель данных/Реляционная модель данных.md",
-    "Модель данных/Модель данных.md",
     "SQL/Оператор (statement).md",
     "Kimball/Conformed dimensions.md",
     "Normal Form (NF)/Normal Form (NF).md",
@@ -204,16 +257,8 @@
     "Normal Form (NF)/1NF.png",
     "Normal Form (NF)/1NF.md",
     "Модель данных",
-    "SQL/TCL.md",
     "Схема данных.md",
-    "Резидентная БД.md",
-    "Модель данных/Иерархическая модель данных.md",
-    "Аналитическое хранилище.md",
-    "ORM.md",
-    "WAL.md",
     "SQL",
-    "SQL/DDL.md",
-    "SQL/DML.md",
     "Normal Form (NF)/3NF.png",
     "Normal Form (NF)/2NF.png",
     "SCD",
@@ -225,7 +270,6 @@
     "Kimball",
     "Транзакция/ACID",
     "Normal Form (NF)",
-    "Без названия.base",
     "4NF 1.png",
     "1NF 1.png"
   ]
