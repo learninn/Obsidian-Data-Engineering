@@ -77,7 +77,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,19 +186,22 @@
   },
   "active": "c71bf2082b442f8e",
   "lastOpenFiles": [
+    "Структура доступа (Access Method).md",
+    "Страница (page).md",
+    "База данных.md",
+    "Партиционирование.md",
+    "Physical Storage Layout/Physical Storage Layout.md",
     "Транзакция/ACID/Durability.md",
     "Транзакция/ACID/Consistency.md",
     "Транзакция/ACID/ACID.md",
     "Транзакция/ACID/Atomicity.md",
     "Модель данных/Модель данных.md",
     "Транзакция/BASE.md",
-    "Physical Storage Layout/Physical Storage Layout.md",
     "SQL/TCL.md",
     "SQL/SQL.md",
     "SQL/DML.md",
     "SQL/DDL.md",
     "SQL/Оператор (statement).md",
-    "Страница (page).md",
     "Physical Storage Layout",
     "ORM.md",
     "Data Wharehouse.md",
@@ -206,14 +210,11 @@
     "HTAP.md",
     "OLAP.md",
     "OLTP.md",
-    "База данных.md",
     "Транзакция/Транзакция.md",
-    "Партиционирование.md",
     "Список СУБД.base",
     "Реляционная БД.md",
     "Модель данных/Реляционная модель данных.md",
     "Модель данных/Иерархическая модель данных.md",
-    "Без названия.md",
     "Транзакция",
     "Normal Form (NF)/1NF.png",
     "Модель данных",
