@@ -18,8 +18,23 @@
               "icon": "lucide-git-fork",
               "title": "Граф"
             }
+          },
+          {
+            "id": "69d4d5669737a6da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SCD1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SCD1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,12 +92,12 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "38944a3674cd6c3a",
@@ -184,37 +199,38 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "c71bf2082b442f8e",
+  "active": "69d4d5669737a6da",
   "lastOpenFiles": [
-    "Структура доступа (Access Method).md",
-    "Страница (page).md",
-    "База данных.md",
-    "Партиционирование.md",
-    "Physical Storage Layout/Physical Storage Layout.md",
-    "Транзакция/ACID/Durability.md",
-    "Транзакция/ACID/Consistency.md",
-    "Транзакция/ACID/ACID.md",
-    "Транзакция/ACID/Atomicity.md",
-    "Модель данных/Модель данных.md",
-    "Транзакция/BASE.md",
-    "SQL/TCL.md",
-    "SQL/SQL.md",
-    "SQL/DML.md",
-    "SQL/DDL.md",
+    "SCD1.md",
+    "SCD/SCD.md",
+    "Data Lake.md",
+    "Слои данных.md",
+    "Data Warehouse.md",
     "SQL/Оператор (statement).md",
-    "Physical Storage Layout",
-    "ORM.md",
-    "Data Wharehouse.md",
-    "General",
+    "Корпоративное хранилище.md",
+    "SCD6.md",
+    "Inmon/Inmon.md",
+    "Kimball/Kimball.md",
+    "Страница (page).md",
+    "ETL.md",
+    "База данных.md",
+    "ERP.md",
+    "CRM.md",
+    "Модель данных/Модель данных.md",
     "Workload type.md",
-    "HTAP.md",
-    "OLAP.md",
-    "OLTP.md",
+    "Общий Холст.canvas",
+    "Normal Form (NF)/5NF.md",
+    "Normal Form (NF)/6NF.md",
     "Транзакция/Транзакция.md",
+    "Kimball/Bus Matrix.md",
+    "PostgreSQL/PostgreSQL.md",
+    "WAL.md",
+    "Kimball/Conformed dimensions.md",
+    "Структура доступа (Access Method).md",
+    "Physical Storage Layout/Physical Storage Layout.md",
+    "Physical Storage Layout",
+    "General",
     "Список СУБД.base",
-    "Реляционная БД.md",
-    "Модель данных/Реляционная модель данных.md",
-    "Модель данных/Иерархическая модель данных.md",
     "Транзакция",
     "Normal Form (NF)/1NF.png",
     "Модель данных",
