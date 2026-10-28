@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "удаление",
+                "query": "Инвариант",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,14 +186,19 @@
   },
   "active": "c71bf2082b442f8e",
   "lastOpenFiles": [
+    "Корпоративное хранилище.md",
     "SCD/SCD1.md",
-    "SCD3.md",
-    "SCD/SCD2.md",
-    "SCD4.md",
     "SCD/SCD.md",
+    "SCD/SCD6.md",
+    "SCD/SCD2.md",
+    "SCD/SCD5.md",
+    "SCD/SCD3.md",
+    "SCD/SCD4.md",
+    "SCD/SCD5.png",
+    "Kimball/Mini-dimension.md",
+    "Реляционная БД.md",
     "Data Warehouse.md",
     "Слои данных.md",
-    "Корпоративное хранилище.md",
     "Kimball/Kimball.md",
     "Normal Form (NF)/2NF.md",
     "Normal Form (NF)/1NF.md",
@@ -206,11 +212,6 @@
     "База данных.md",
     "Модель данных/Модель данных.md",
     "Workload type.md",
-    "Транзакция/ACID/ACID.md",
-    "Транзакция/ACID/Consistency.md",
-    "Транзакция/ACID/Durability.md",
-    "Транзакция/ACID/Atomicity.md",
-    "Транзакция/ACID/Isolation.md",
     "Общий Холст.canvas",
     "Physical Storage Layout",
     "General",
