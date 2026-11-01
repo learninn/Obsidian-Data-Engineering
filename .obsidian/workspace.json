@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fa09f4708b607b7c",
+        "id": "c60aba083456de71",
         "type": "tabs",
         "children": [
           {
-            "id": "c71bf2082b442f8e",
+            "id": "e1060dd7357ae3aa",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,8 +18,37 @@
               "icon": "lucide-git-fork",
               "title": "Граф"
             }
+          },
+          {
+            "id": "dfbe792a6af2a6ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Корпоративное хранилище.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Корпоративное хранилище"
+            }
+          },
+          {
+            "id": "632e1c9555b57698",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Mesh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Mesh"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Инвариант",
+                "query": "latency",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +106,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,34 +212,39 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "c71bf2082b442f8e",
+  "active": "632e1c9555b57698",
   "lastOpenFiles": [
     "Корпоративное хранилище.md",
-    "SCD/SCD1.md",
-    "SCD/SCD.md",
-    "SCD/SCD6.md",
-    "SCD/SCD2.md",
-    "SCD/SCD5.md",
-    "SCD/SCD3.md",
-    "SCD/SCD4.md",
-    "SCD/SCD5.png",
-    "Kimball/Mini-dimension.md",
-    "Реляционная БД.md",
     "Data Warehouse.md",
-    "Слои данных.md",
-    "Kimball/Kimball.md",
-    "Normal Form (NF)/2NF.md",
+    "Data Lake.md",
+    "Lakehouse.md",
+    "Youssef Gahi, What Went Wrong with Data Lakes. A 15-Year Reality Check from the Field.pdf",
+    "file:C:/Users/lex/Downloads/Youssef Gahi, What Went Wrong with Data Lakes. A 15-Year Reality Check from the Field.pdf",
+    "Без названия.base",
+    "Без названия.canvas",
     "Normal Form (NF)/1NF.md",
+    "Normal Form (NF)/2NF.md",
     "Normal Form (NF)/3NF.md",
     "Normal Form (NF)/BCNF.md",
     "Normal Form (NF)/4NF.md",
     "Normal Form (NF)/5NF.md",
     "Normal Form (NF)/6NF.md",
     "Normal Form (NF)/Normal Form (NF).md",
+    "Модель данных/Реляционная модель данных.md",
+    "Kimball/Kimball.md",
     "Kimball/Conformed dimensions.md",
-    "База данных.md",
-    "Модель данных/Модель данных.md",
-    "Workload type.md",
+    "Kimball/Unknown member.md",
+    "Kimball/Degenerate.md",
+    "Kimball/Role-playing.md",
+    "Kimball/Mini-dimension.md",
+    "Kimball/Inferred member.md",
+    "Kimball/Bus Matrix.md",
+    "Kimball/Dimensional modeling.md",
+    "Kimball/Dimensions.md",
+    "Kimball/Facts.md",
+    "Kimball/Factless fact.md",
+    "Inmon/Inmon.md",
+    "SCD/SCD5.png",
     "Общий Холст.canvas",
     "Physical Storage Layout",
     "General",
@@ -223,12 +256,9 @@
     "Normal Form (NF)/3NF.png",
     "Normal Form (NF)/2NF.png",
     "SCD",
-    "PostgreSQL",
-    "Inmon",
     "Normal Form (NF)/4NF.png",
     "Normal Form (NF)/5NF.png",
     "Normal Form (NF)/BCNF.png",
-    "Kimball",
     "4NF 1.png",
     "1NF 1.png"
   ]
