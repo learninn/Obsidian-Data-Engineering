@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c60aba083456de71",
+        "id": "00f428c3910e039a",
         "type": "tabs",
         "children": [
           {
-            "id": "e1060dd7357ae3aa",
+            "id": "3b6ac62593c10dd8",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -53,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " self-service",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +75,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,14 +181,16 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "e1060dd7357ae3aa",
+  "active": "3b6ac62593c10dd8",
   "lastOpenFiles": [
+    "ETL & ELT.md",
+    "Pasted image 20261107165230.png",
     "Корпоративное хранилище.md",
-    "Data Warehouse.md",
     "Без названия.md",
+    "Data Lake.md",
+    "Data Warehouse.md",
     "Data Mesh.md",
     "Lakehouse.md",
-    "Data Lake.md",
     "Youssef Gahi, What Went Wrong with Data Lakes. A 15-Year Reality Check from the Field.pdf",
     "file:C:/Users/lex/Downloads/Youssef Gahi, What Went Wrong with Data Lakes. A 15-Year Reality Check from the Field.pdf",
     "Без названия.base",
@@ -214,8 +213,6 @@
     "Kimball/Inferred member.md",
     "Kimball/Bus Matrix.md",
     "Kimball/Dimensional modeling.md",
-    "Kimball/Dimensions.md",
-    "Kimball/Facts.md",
     "SCD/SCD5.png",
     "Общий Холст.canvas",
     "Physical Storage Layout",
